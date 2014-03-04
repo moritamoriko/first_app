@@ -1,10 +1,8 @@
-学習用  
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
-Ruby on Rails チュートリアル  
-実例を使ってRailsを学ぼう  
-Michael Hartl (マイケル・ハートル)  
-  
-http://railstutorial.jp/  
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 
 
